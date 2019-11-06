@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0942d884-2014-4155-8ec4-2c0d5c079539" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,22 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../view_img.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="18" column="64" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="64" />
-              <folding>
-                <element signature="e#1#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ssa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state>
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -64,7 +53,15 @@
       <find>filter</find>
       <find>get_reconstructed_signal</find>
       <find>plt.show()</find>
+      <find>np.linalg.eig</find>
+      <find>eig</find>
+      <find>draw_from_ellipsoid</find>
+      <find>f1</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/..</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -97,23 +94,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="persistence-b210d56" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kalman-and-Bayesian-Filters-in-Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rrt-algorithms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -290,17 +277,19 @@
       <workItem from="1552939457258" duration="2564000" />
       <workItem from="1553339829979" duration="1018000" />
       <workItem from="1558638303083" duration="9445000" />
+      <workItem from="1559718454452" duration="205000" />
+      <workItem from="1559721022153" duration="9000" />
+      <workItem from="1573020564568" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77844000" />
+    <option name="totallyTimeSpent" value="78149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11792956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12113127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,11 +300,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3296582" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.33038673" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3296582" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32928178" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,45 +419,10 @@
     <entry file="file://$PROJECT_DIR$/../paws.numpy" />
     <entry file="file://$PROJECT_DIR$/../2Dpers.ipynb" />
     <entry file="file://$PROJECT_DIR$/../imagepers.py" />
+    <entry file="file://$PROJECT_DIR$/../union_find.py" />
+    <entry file="file://$PROJECT_DIR$/../tryekf.py" />
+    <entry file="file://$PROJECT_DIR$/../try_on.py" />
     <entry file="file://$PROJECT_DIR$/../try_test.py" />
-    <entry file="file://$PROJECT_DIR$/../view_img.py" />
-    <entry file="file://$PROJECT_DIR$/../union_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tryekf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2388">
-          <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
-          <folding>
-            <element signature="e#1#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../try_on.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../try_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/lib/python2.7/dist-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -490,22 +444,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../ssa.py" />
+    <entry file="file://$PROJECT_DIR$/../view_img.py" />
     <entry file="file://$PROJECT_DIR$/../ssa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state>
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../view_img.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="64" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="64" />
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
